@@ -1,17 +1,23 @@
-### Oi, tudo bem?! Eu me chamo Emerson Ribeiro, Estudante de ADS!
+# Oi! Meu nome é Emerson Ribeiro 😀
 
-- 👨🏽‍💻 2/5 em Análise e Desenvolvimento de Sistemas
-- ☕ Aprendendo Java!
-- 🐱‍🐉 Fun fact: Um ex-turismólogo que através da paixão por jogos, também se apaixonou pela T.I.
+## 🙋🏾‍♂️ Quem sou eu?
 
-##
+Sou estudante de Análise e Desenvolvimento de Sistemas na Unifor (3º semestre).  
+Tenho experiência prática com **front-end** (HTML, CSS, JavaScript, um pouco de React) e estou ampliando meus conhecimentos em **back-end** com Node.js e bancos de dados.
+Meu objetivo é atuar como **desenvolvedor fullstack**, com foco principal no back-end, mas mantendo boa base de front-end para entregar aplicações.
+Pretendo também quando tiver uma base mais sólida no que já estou estudando, focar em Java ☕
 
-<div>
-<img align="center" alt="EmsRibeiro-J" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-</div>
 
-##
+---
 
-<div>
-  <a href = "mailto:jrc.emerson@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+## 🛠 O que eu sei?
+
+**Front-end:** HTML • CSS • JavaScript • React  
+**Ferramentas:** Git • GitHub • VSCode • NPM  
+**Estudos atuais:** Node.js • APIs REST • UI/UX básico • React
+
+---
+
+## 🌍 Idiomas
+**Inglês:** Avançado  
+**Espanhol:** Intermediário
