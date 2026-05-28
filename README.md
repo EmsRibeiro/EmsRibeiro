@@ -13,7 +13,9 @@ Pretendo também quando tiver uma base mais sólida no que já estou estudando, 
 ## 🛠 O que eu sei?
 
 **Front-end:** HTML • CSS • JavaScript • React  
+
 **Ferramentas:** Git • GitHub • VSCode • NPM  • Figma
+
 **Estudos atuais:** Node.js • APIs REST • UI/UX básico • React
 
 ---
